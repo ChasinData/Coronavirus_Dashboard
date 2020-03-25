@@ -5,8 +5,8 @@ account: chasindata
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1990187
-bundleId: 2923596
+bundleId: 2923717
 url: https://chasindata.shinyapps.io/COVID19/
-when: 1585156402.38241
+when: 1585158263.37178
 asMultiple: FALSE
 asStatic: FALSE

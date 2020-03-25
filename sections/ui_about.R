@@ -11,14 +11,14 @@ body_about <- dashboardBody(
             tags$br(),
             h3("Motivation"),
             "Various companies thought that a global crisis is an excellent opportunity to
-            show case their technologies. Therefore, my idea was to show that open-source
+            show case their technologies. Therefore, the idea behind this was to show that open-source
             technologies, such as R Shiny, can be used to create a decent dashboard in few hours.
             Furthermore, the most popular COVID-19 dashboard (",
             tags$a(href = "https://coronavirus.jhu.edu/map.html", "Johns Hopkins COVID-19"), ") is styled rather
             alarmist. Therefore, a more neutral dashboard might help to dampen the already
             existing hysteria a little.",
             h4("Why Open Source?"),
-            "My hope is that this dashboard can help researchers around the world to get a
+            "Leveraging snippets of code from others can often save time and show you what is possible. Hopefully this dashboard can help researchers around the world to get a
             better overview of the current situation concerning the COVID-19 idea. I hereby
             invite all of you to contribute to this project with additional visualizations,
             information etc.",
@@ -43,7 +43,7 @@ body_about <- dashboardBody(
                                                 "email"), ". I will try to look into it as soon as possible.",
             h3("Contribute"),
             "If you want to add any visualization or further information feel free to create
-            a pull request on ", tags$a(href = "https://github.com/ChasinData?tab=repositories", "Github"), ".
+            a pull request on ", tags$a(href = "https://github.com/ChasinData/Coronavirus_Dashboard", "Github"), ".
             For major rework either fork the repository or create an issue so we can discuss it.",
             h3("Developers"),
             "Trask | Data Scientist @",
